@@ -1,0 +1,32 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+  text-align: center;
+
+
+}
+
+input {
+    height: 25px;
+    width: 1200px;
+    padding: 10px 15px;
+    margin-left: 50px;
+}
+
+h2 {
+    margin-left: 50px;
+
+}
+
+button {
+
+    width: 200px;
+    padding: 15px;
+    margin-left: 50px;
+    margin-top: 10px;
+    background-color: aliceblue;
+    border: solid 1px blue;
+    color: blue;
+}
